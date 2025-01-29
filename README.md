@@ -20,6 +20,6 @@
 *   Пишу статьи [на Хабр](https://habr.com/ru/users/Bizonozubr/) и различные заметки [в блог](http://olegbezverhii.github.io).
 
 ## 🛠 Технический стэк
-*   Основной язык - ST (Structured Text, IEC 61131-3), C#/VBA/Python.
+*   Основной язык - ST (Structured Text, IEC 61131-3), C#/VBA/Python/Delphi.
 *   Работа с базами MSSQL, PostgreSQL
 *   GitHub/Git/SVN
