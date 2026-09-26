@@ -1,7 +1,15 @@
-## Всем привет, меня зовут Олег 👋
+## About Me 👋
 
-Инженер программист с хорошим объемом знаний в смежных системах.
+Industrial Automation Engineer, currently working in the oil pumping sector.
 
+## 🏭 Professional Experience
+
+* Design and implementation of industrial control systems
+* PLC programming (Schneider, Prosoft, any Codesys PLC)
+* HMI/SCADA development (Iconics GENESYS, IFix, Alpha Platform)
+* Industrial communication and integration
+* I write articles for [Habr](https://habr.com/ru/users/Bizonozubr/) and various posts for my [blog](http://olegbezverhii.github.io).
+* 
 <!---
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=OlegBezverhii&show_icons=true&count_private=true">
@@ -15,11 +23,8 @@
 </p>
 -->
 
-### Немного обо мне
-*   На текущий момент работаю ведущим инженером в отделе СПАС МПСА и ТМ в компании [ООО "Транснефть - Дальний Восток"](https://fareast.transneft.ru).
-*   Пишу статьи [на Хабр](https://habr.com/ru/users/Bizonozubr/) и различные заметки [в блог](http://olegbezverhii.github.io).
+## 🛠️ Tech Stack (selected)
 
-## 🛠 Технический стэк
-*   Основной язык - ST (Structured Text, IEC 61131-3), C#/VBA/Python/Delphi.
-*   Работа с базами MSSQL, PostgreSQL
-*   GitHub/Git/SVN
+* **Languages:** C#, VBA, Python, Delphi, PLC (SCL/ST/LAD), SQL
+* **Tools:** Unity Pro, Codesys, EpsilonLD/AstraIDE
+* **Other:** Git, SVN, CLI tooling
