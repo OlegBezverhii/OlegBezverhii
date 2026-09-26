@@ -23,7 +23,7 @@ Industrial Automation Engineer, currently working in the oil pumping sector.
 </p>
 -->
 
-## 🛠️ Tech Stack (selected)
+## 🛠️ Tech Stack
 
 * **Languages:** C#, VBA, Python, Delphi, PLC (SCL/ST/LAD), SQL
 * **Tools:** Unity Pro, Codesys, EpsilonLD/AstraIDE
