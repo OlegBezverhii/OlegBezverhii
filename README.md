@@ -9,7 +9,7 @@ Industrial Automation Engineer, currently working in the oil pumping sector.
 * HMI/SCADA development (Iconics GENESYS, IFix, Alpha Platform)
 * Industrial communication and integration
 * I write articles for [Habr](https://habr.com/ru/users/Bizonozubr/) and various posts for my [blog](http://olegbezverhii.github.io).
-* 
+
 <!---
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=OlegBezverhii&show_icons=true&count_private=true">
